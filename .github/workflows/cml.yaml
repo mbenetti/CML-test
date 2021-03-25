@@ -19,12 +19,12 @@ jobs:
           cat metrics.txt
           
           # Write your CML report
-          echo "## MODEL METRICS" > report.md
+          echo "## MODEL METRICS" >>  report.md
           cat metrics.txt >> report.md
-          echo "## MODEL Viz" > report.md
-          echo "### Feature importance" > report.md
+          echo "## MODEL Viz" >> report.md
+          echo "### Feature importance" >> report.md
           cml-publish feature_importance.png --md >> report.md
-          echo "### Reciduals" > report.md
+          echo "### Residuals" >> report.md
           cml-publish residuals.png --md >> report.md
           
           cml-send-comment report.md
