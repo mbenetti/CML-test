@@ -1,6 +1,6 @@
 ![image](./img/cd-ci2.jpg)
 
-Test project of a Github actions applied to a Data Science project
+Test project of Github actions applied to a Data Science project
 
 
 
