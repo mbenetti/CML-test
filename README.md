@@ -1,6 +1,6 @@
 # CI/CD - Continuous Integration / Continuous Delivery applied to Data Science
 
-### Github actions as platform for CI/CD into the DS process
+### Github actions as platform to perform CI/CD to the DS process
 ##   
 ##
 
