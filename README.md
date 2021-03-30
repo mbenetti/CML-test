@@ -6,7 +6,7 @@
 
 ![image](./img/cd-ci2.jpg)
 
-This repository contains a test project that applied CI-CD principles to a Data Science project and made use of Github actions as main platform for code, data and model versioning.
+This repository apply CI-CD principles to a Data Science project with Github actions. as main platform for code, data and model versioning.
 
 
 
@@ -14,8 +14,9 @@ This repository contains a test project that applied CI-CD principles to a Data 
 
 https://towardsdatascience.com/rethinking-continuous-integration-for-data-science-ebf0dfc61788
 
+https://www.youtube.com/watch?v=9BgIDqAzfuA
 
 
-# Project:
+# Project example:
 ### Wine quality prediction
 Modelling a Kaggle dataset of [red wine properties and quality ratings](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009). 
