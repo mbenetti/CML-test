@@ -1,8 +1,8 @@
 # CI/CD - Continuous Integration / Continuous Delivery applied to Data Science
 
 ### Github actions as platform to perform CI/CD to the DS process
-##   
-##
+
+
 
 ![image](./img/cd-ci2.jpg)
 
@@ -13,6 +13,7 @@ This repository contains a test project that applied CI-CD principles to a Data 
 ## For more information:
 
 https://towardsdatascience.com/rethinking-continuous-integration-for-data-science-ebf0dfc61788
+
 
 
 # Project:
