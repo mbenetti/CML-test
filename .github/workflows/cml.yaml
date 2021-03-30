@@ -1,5 +1,5 @@
 name: CML-Test-1
-on: [push]
+#on: [push]
 jobs:
   run:
     runs-on: [ubuntu-latest]
